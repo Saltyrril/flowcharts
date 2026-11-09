@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="909" height="1544" viewBox="0 0 909 1544" font-family="'DejaVu Sans', 'Segoe UI', Arial, 'Liberation Sans', sans-serif" font-size="13">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="#ffffff" stroke="#000000" stroke-width="1.5" stroke-linejoin="miter">
+<rect x="347.0" y="28.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="422.0" y="47.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">начало</text>
+<polyline points="547.0,33.5 537.0,33.5 537.0,60.5 547.0,60.5" fill="none"/>
+<text x="555.0" y="47.0" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">main(void)</text>
+<polyline points="497.0,47.0 537.0,47.0" fill="none" stroke-dasharray="6 4"/>
+<polyline points="422.0,66.0 422.0,96.0" fill="none"/>
+<polygon points="422.0,96.0 417.8,87.0 426.2,87.0" fill="#000000" stroke="none"/>
+<polygon points="306.0,96.0 538.0,96.0 538.0,140.0 306.0,140.0"/>
+<text x="422.0" y="118.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">s := 0</text>
+<polyline points="422.0,140.0 422.0,170.0" fill="none"/>
+<polygon points="422.0,170.0 417.8,161.0 426.2,161.0" fill="#000000" stroke="none"/>
+<polygon points="321.0,170.0 523.0,170.0 538.0,185.0 538.0,220.0 306.0,220.0 306.0,185.0"/>
+<text x="422.0" y="186.5" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">A для i := 0; i &lt; N; i :=</text>
+<text x="422.0" y="203.5" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">i + 1</text>
+<polyline points="422.0,220.0 422.0,250.0" fill="none"/>
+<polygon points="422.0,250.0 417.8,241.0 426.2,241.0" fill="#000000" stroke="none"/>
+<polygon points="326.0,250.0 538.0,250.0 518.0,294.0 306.0,294.0"/>
+<text x="422.0" y="272.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">scanf("%d", &amp;a[i])</text>
+<polyline points="422.0,294.0 422.0,324.0" fill="none"/>
+<polygon points="422.0,324.0 417.8,315.0 426.2,315.0" fill="#000000" stroke="none"/>
+<polygon points="306.0,324.0 538.0,324.0 538.0,349.0 523.0,364.0 321.0,364.0 306.0,349.0"/>
+<text x="422.0" y="344.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">A</text>
+<polyline points="422.0,364.0 422.0,394.0" fill="none"/>
+<polygon points="422.0,394.0 417.8,385.0 426.2,385.0" fill="#000000" stroke="none"/>
+<polygon points="306.0,394.0 538.0,394.0 538.0,438.0 306.0,438.0"/>
+<polyline points="319.0,394.0 319.0,438.0" fill="none"/>
+<polyline points="525.0,394.0 525.0,438.0" fill="none"/>
+<text x="422.0" y="416.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">insertSort(a, N)</text>
+<polyline points="422.0,438.0 422.0,468.0" fill="none"/>
+<polygon points="422.0,468.0 417.8,459.0 426.2,459.0" fill="#000000" stroke="none"/>
+<polygon points="422.0,468.0 546.0,504.0 422.0,540.0 298.0,504.0"/>
+<text x="422.0" y="504.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">a[0]</text>
+<polyline points="422.0,540.0 422.0,554.0" fill="none"/>
+<polyline points="144.0,554.0 700.0,554.0" fill="none"/>
+<polyline points="144.0,554.0 144.0,584.0" fill="none"/>
+<polygon points="144.0,584.0 139.8,575.0 148.2,575.0" fill="#000000" stroke="none"/>
+<text x="149.0" y="566.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">1, 2</text>
+<polygon points="28.0,584.0 260.0,584.0 260.0,628.0 28.0,628.0"/>
+<text x="144.0" y="606.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">s := s + 1</text>
+<polyline points="422.0,554.0 422.0,584.0" fill="none"/>
+<polygon points="422.0,584.0 417.8,575.0 426.2,575.0" fill="#000000" stroke="none"/>
+<text x="427.0" y="566.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">3</text>
+<polygon points="326.0,584.0 538.0,584.0 518.0,628.0 306.0,628.0"/>
+<text x="422.0" y="606.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">printf("three")</text>
+<polyline points="700.0,554.0 700.0,584.0" fill="none"/>
+<polygon points="700.0,584.0 695.8,575.0 704.2,575.0" fill="#000000" stroke="none"/>
+<text x="705.0" y="566.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">иначе</text>
+<polygon points="584.0,584.0 816.0,584.0 816.0,628.0 584.0,628.0"/>
+<text x="700.0" y="606.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">s := -1</text>
+<polyline points="144.0,628.0 144.0,658.0 422.0,658.0" fill="none"/>
+<polyline points="422.0,628.0 422.0,658.0 422.0,658.0" fill="none"/>
+<polyline points="700.0,628.0 700.0,658.0 422.0,658.0" fill="none"/>
+<polyline points="422.0,658.0 422.0,688.0" fill="none"/>
+<polygon points="422.0,688.0 417.8,679.0 426.2,679.0" fill="#000000" stroke="none"/>
+<polygon points="321.0,688.0 523.0,688.0 538.0,703.0 538.0,728.0 306.0,728.0 306.0,703.0"/>
+<text x="422.0" y="708.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">B</text>
+<polyline points="422.0,728.0 422.0,758.0" fill="none"/>
+<polygon points="422.0,758.0 417.8,749.0 426.2,749.0" fill="#000000" stroke="none"/>
+<polygon points="306.0,758.0 538.0,758.0 538.0,802.0 306.0,802.0"/>
+<text x="422.0" y="780.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">s := s - 1</text>
+<polyline points="422.0,802.0 422.0,832.0" fill="none"/>
+<polygon points="422.0,832.0 417.8,823.0 426.2,823.0" fill="#000000" stroke="none"/>
+<polygon points="422.0,832.0 546.0,868.0 422.0,904.0 298.0,868.0"/>
+<text x="422.0" y="868.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">s == 5</text>
+<text x="550.0" y="860.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">да</text>
+<polyline points="546.0,868.0 570.0,868.0 570.0,934.0" fill="none"/>
+<polygon points="570.0,934.0 565.8,925.0 574.2,925.0" fill="#000000" stroke="none"/>
+<ellipse cx="570.0" cy="951.0" rx="17.0" ry="17.0"/>
+<text x="570.0" y="951.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">1</text>
+<text x="595.0" y="951.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">выход из цикла</text>
+<text x="428.0" y="918.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">нет</text>
+<polyline points="422.0,904.0 422.0,998.0" fill="none"/>
+<polygon points="422.0,998.0 417.8,989.0 426.2,989.0" fill="#000000" stroke="none"/>
+<polygon points="306.0,998.0 538.0,998.0 538.0,1023.0 523.0,1038.0 321.0,1038.0 306.0,1023.0"/>
+<text x="422.0" y="1018.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">B пока s &gt; 0</text>
+<polyline points="422.0,1038.0 422.0,1068.0" fill="none"/>
+<polygon points="422.0,1068.0 417.8,1059.0 426.2,1059.0" fill="#000000" stroke="none"/>
+<ellipse cx="422.0" cy="1085.0" rx="17.0" ry="17.0"/>
+<text x="422.0" y="1085.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">1</text>
+<text x="447.0" y="1085.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">выход из цикла</text>
+<polyline points="422.0,1102.0 422.0,1132.0" fill="none"/>
+<polygon points="422.0,1132.0 417.8,1123.0 426.2,1123.0" fill="#000000" stroke="none"/>
+<polygon points="422.0,1132.0 546.0,1168.0 422.0,1204.0 298.0,1168.0"/>
+<text x="422.0" y="1168.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">s &gt; 0</text>
+<polyline points="298.0,1168.0 276.0,1168.0 276.0,1234.0" fill="none"/>
+<polygon points="276.0,1234.0 271.8,1225.0 280.2,1225.0" fill="#000000" stroke="none"/>
+<polyline points="546.0,1168.0 569.0,1168.0 569.0,1234.0" fill="none"/>
+<polygon points="569.0,1234.0 564.8,1225.0 573.2,1225.0" fill="#000000" stroke="none"/>
+<text x="294.0" y="1160.0" dy=".35em" text-anchor="end" font-size="12" fill="#000000" stroke="none">да</text>
+<text x="550.0" y="1160.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">нет</text>
+<polygon points="180.0,1234.0 392.0,1234.0 372.0,1278.0 160.0,1278.0"/>
+<text x="276.0" y="1256.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">printf("%d\n", s)</text>
+<polygon points="569.0,1234.0 693.0,1270.0 569.0,1306.0 445.0,1270.0"/>
+<text x="569.0" y="1270.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">s == 0</text>
+<text x="697.0" y="1262.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">нет</text>
+<polyline points="693.0,1270.0 806.0,1270.0 806.0,1336.0" fill="none"/>
+<polygon points="806.0,1336.0 801.8,1327.0 810.2,1327.0" fill="#000000" stroke="none"/>
+<rect x="731.0" y="1336.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="806.0" y="1355.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">возврат 1</text>
+<text x="575.0" y="1320.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">да</text>
+<polyline points="569.0,1306.0 569.0,1336.0" fill="none"/>
+<polygon points="569.0,1336.0 564.8,1327.0 573.2,1327.0" fill="#000000" stroke="none"/>
+<polygon points="473.0,1336.0 685.0,1336.0 665.0,1380.0 453.0,1380.0"/>
+<text x="569.0" y="1358.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">printf("zero")</text>
+<polyline points="276.0,1278.0 276.0,1410.0 422.0,1410.0" fill="none"/>
+<polyline points="569.0,1380.0 569.0,1410.0 422.0,1410.0" fill="none"/>
+<polyline points="422.0,1410.0 422.0,1440.0" fill="none"/>
+<polygon points="422.0,1440.0 417.8,1431.0 426.2,1431.0" fill="#000000" stroke="none"/>
+<rect x="347.0" y="1440.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="422.0" y="1459.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">возврат 0</text>
+<text x="454.5" y="1522.0" dy=".35em" text-anchor="middle" font-size="14" font-weight="bold" fill="#000000" stroke="none">Блок-схема: main</text>
+</g></svg>

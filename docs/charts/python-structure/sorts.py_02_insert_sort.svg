@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="544" height="493" viewBox="0 0 544 493" font-family="'DejaVu Sans', 'Segoe UI', Arial, 'Liberation Sans', sans-serif" font-size="13">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="#ffffff" stroke="#000000" stroke-width="1.5" stroke-linejoin="miter">
+<rect x="69.0" y="31.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="144.0" y="50.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">начало</text>
+<polyline points="269.0,28.0 259.0,28.0 259.0,72.0 269.0,72.0" fill="none"/>
+<text x="277.0" y="41.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">insert_sort(arr, n)</text>
+<text x="277.0" y="58.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">// Сортировка массива вставками</text>
+<polyline points="219.0,50.0 259.0,50.0" fill="none" stroke-dasharray="6 4"/>
+<polyline points="144.0,69.0 144.0,99.0" fill="none"/>
+<polygon points="144.0,99.0 139.8,90.0 148.2,90.0" fill="#000000" stroke="none"/>
+<polygon points="43.0,99.0 245.0,99.0 260.0,114.0 260.0,139.0 28.0,139.0 28.0,114.0"/>
+<text x="144.0" y="119.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">A пока i &lt; n</text>
+<polyline points="144.0,139.0 144.0,169.0" fill="none"/>
+<polygon points="144.0,169.0 139.8,160.0 148.2,160.0" fill="#000000" stroke="none"/>
+<polygon points="43.0,169.0 245.0,169.0 260.0,184.0 260.0,219.0 28.0,219.0 28.0,184.0"/>
+<text x="144.0" y="185.5" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">B пока j &gt;= 0 and arr[j]</text>
+<text x="144.0" y="202.5" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">&gt; key</text>
+<polyline points="144.0,219.0 144.0,249.0" fill="none"/>
+<polygon points="144.0,249.0 139.8,240.0 148.2,240.0" fill="#000000" stroke="none"/>
+<polygon points="28.0,249.0 260.0,249.0 260.0,274.0 245.0,289.0 43.0,289.0 28.0,274.0"/>
+<text x="144.0" y="269.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">B</text>
+<polyline points="144.0,289.0 144.0,319.0" fill="none"/>
+<polygon points="144.0,319.0 139.8,310.0 148.2,310.0" fill="#000000" stroke="none"/>
+<polygon points="28.0,319.0 260.0,319.0 260.0,344.0 245.0,359.0 43.0,359.0 28.0,344.0"/>
+<text x="144.0" y="339.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">A</text>
+<polyline points="144.0,359.0 144.0,389.0" fill="none"/>
+<polygon points="144.0,389.0 139.8,380.0 148.2,380.0" fill="#000000" stroke="none"/>
+<rect x="69.0" y="389.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="144.0" y="408.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">конец</text>
+<text x="271.9" y="471.0" dy=".35em" text-anchor="middle" font-size="14" font-weight="bold" fill="#000000" stroke="none">Блок-схема: insert_sort</text>
+</g></svg>

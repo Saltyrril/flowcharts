@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="471" height="570" viewBox="0 0 471 570" font-family="'DejaVu Sans', 'Segoe UI', Arial, 'Liberation Sans', sans-serif" font-size="13">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="#ffffff" stroke="#000000" stroke-width="1.5" stroke-linejoin="miter">
+<rect x="77.0" y="28.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="152.0" y="47.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">начало</text>
+<polyline points="152.0,66.0 152.0,96.0" fill="none"/>
+<polygon points="152.0,96.0 147.8,87.0 156.2,87.0" fill="#000000" stroke="none"/>
+<polygon points="51.0,96.0 253.0,96.0 268.0,111.0 268.0,136.0 36.0,136.0 36.0,111.0"/>
+<text x="152.0" y="116.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">A для x in data</text>
+<polyline points="152.0,136.0 152.0,166.0" fill="none"/>
+<polygon points="152.0,166.0 147.8,157.0 156.2,157.0" fill="#000000" stroke="none"/>
+<polygon points="152.0,166.0 276.0,202.0 152.0,238.0 28.0,202.0"/>
+<text x="152.0" y="202.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">x &gt; 5</text>
+<text x="280.0" y="194.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">да</text>
+<polyline points="276.0,202.0 300.0,202.0 300.0,268.0" fill="none"/>
+<polygon points="300.0,268.0 295.8,259.0 304.2,259.0" fill="#000000" stroke="none"/>
+<ellipse cx="300.0" cy="285.0" rx="17.0" ry="17.0"/>
+<text x="300.0" y="285.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">1</text>
+<text x="325.0" y="285.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">следующая итерация</text>
+<text x="158.0" y="252.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">нет</text>
+<polyline points="152.0,238.0 152.0,332.0" fill="none"/>
+<polygon points="152.0,332.0 147.8,323.0 156.2,323.0" fill="#000000" stroke="none"/>
+<ellipse cx="152.0" cy="349.0" rx="17.0" ry="17.0"/>
+<text x="152.0" y="349.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">1</text>
+<text x="177.0" y="349.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">следующая итерация</text>
+<polyline points="152.0,366.0 152.0,396.0" fill="none"/>
+<polygon points="152.0,396.0 147.8,387.0 156.2,387.0" fill="#000000" stroke="none"/>
+<polygon points="36.0,396.0 268.0,396.0 268.0,421.0 253.0,436.0 51.0,436.0 36.0,421.0"/>
+<text x="152.0" y="416.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">A</text>
+<polyline points="152.0,436.0 152.0,466.0" fill="none"/>
+<polygon points="152.0,466.0 147.8,457.0 156.2,457.0" fill="#000000" stroke="none"/>
+<rect x="77.0" y="466.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="152.0" y="485.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">конец</text>
+<text x="235.1" y="548.0" dy=".35em" text-anchor="middle" font-size="14" font-weight="bold" fill="#000000" stroke="none">Блок-схема: Основная программа</text>
+</g></svg>

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Сборка PyInstaller (создаётся build_exe.bat)
+build/
+dist/
+
+# Результаты запуска
+flowcharts/
+examples_out/
+
+# IDE / ОС
+.idea/
+.vscode/
+Thumbs.db
+
+# PyInstaller spec (создаётся автоматически)
+*.spec

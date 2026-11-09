@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="341" height="200" viewBox="0 0 341 200" font-family="'DejaVu Sans', 'Segoe UI', Arial, 'Liberation Sans', sans-serif" font-size="13">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="#ffffff" stroke="#000000" stroke-width="1.5" stroke-linejoin="miter">
+<rect x="28.0" y="28.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="103.0" y="47.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">начало</text>
+<polyline points="228.0,33.5 218.0,33.5 218.0,60.5 228.0,60.5" fill="none"/>
+<text x="236.0" y="47.0" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">swap(a, i)</text>
+<polyline points="178.0,47.0 218.0,47.0" fill="none" stroke-dasharray="6 4"/>
+<polyline points="103.0,66.0 103.0,96.0" fill="none"/>
+<polygon points="103.0,96.0 98.8,87.0 107.2,87.0" fill="#000000" stroke="none"/>
+<rect x="28.0" y="96.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="103.0" y="115.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">конец</text>
+<text x="170.5" y="178.0" dy=".35em" text-anchor="middle" font-size="14" font-weight="bold" fill="#000000" stroke="none">Блок-схема: swap</text>
+</g></svg>

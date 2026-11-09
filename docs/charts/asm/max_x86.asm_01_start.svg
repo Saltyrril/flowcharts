@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="386" height="1319" viewBox="0 0 386 1319" font-family="'DejaVu Sans', 'Segoe UI', Arial, 'Liberation Sans', sans-serif" font-size="13">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="#ffffff" stroke="#000000" stroke-width="1.5" stroke-linejoin="miter">
+<rect x="77.0" y="28.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="152.0" y="47.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">начало</text>
+<polyline points="152.0,66.0 152.0,96.0" fill="none"/>
+<polygon points="152.0,96.0 147.8,87.0 156.2,87.0" fill="#000000" stroke="none"/>
+<polygon points="36.0,96.0 268.0,96.0 268.0,199.0 36.0,199.0"/>
+<text x="46.0" y="113.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">mov esi, arr</text>
+<text x="46.0" y="130.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">mov ecx, n</text>
+<text x="46.0" y="147.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">mov eax, [esi]</text>
+<text x="46.0" y="164.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">add esi, 4</text>
+<text x="46.0" y="181.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">dec ecx</text>
+<polyline points="152.0,199.0 152.0,229.0" fill="none"/>
+<polygon points="152.0,229.0 147.8,220.0 156.2,220.0" fill="#000000" stroke="none"/>
+<ellipse cx="152.0" cy="246.0" rx="17.0" ry="17.0"/>
+<text x="152.0" y="246.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">1</text>
+<text x="177.0" y="246.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">.loop</text>
+<polyline points="152.0,263.0 152.0,293.0" fill="none"/>
+<polygon points="152.0,293.0 147.8,284.0 156.2,284.0" fill="#000000" stroke="none"/>
+<polygon points="152.0,293.0 276.0,329.0 152.0,365.0 28.0,329.0"/>
+<text x="152.0" y="329.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">ecx == 0</text>
+<text x="280.0" y="321.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">да</text>
+<polyline points="276.0,329.0 300.0,329.0 300.0,395.0" fill="none"/>
+<polygon points="300.0,395.0 295.8,386.0 304.2,386.0" fill="#000000" stroke="none"/>
+<ellipse cx="300.0" cy="412.0" rx="17.0" ry="17.0"/>
+<text x="300.0" y="412.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">2</text>
+<text x="325.0" y="412.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">.done</text>
+<text x="158.0" y="379.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">нет</text>
+<polyline points="152.0,365.0 152.0,459.0" fill="none"/>
+<polygon points="152.0,459.0 147.8,450.0 156.2,450.0" fill="#000000" stroke="none"/>
+<polygon points="36.0,459.0 268.0,459.0 268.0,503.0 36.0,503.0"/>
+<text x="46.0" y="481.0" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">mov ebx, [esi]</text>
+<polyline points="152.0,503.0 152.0,533.0" fill="none"/>
+<polygon points="152.0,533.0 147.8,524.0 156.2,524.0" fill="#000000" stroke="none"/>
+<polygon points="152.0,533.0 276.0,569.0 152.0,605.0 28.0,569.0"/>
+<text x="152.0" y="569.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">ebx &lt;= eax</text>
+<text x="280.0" y="561.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">да</text>
+<polyline points="276.0,569.0 300.0,569.0 300.0,635.0" fill="none"/>
+<polygon points="300.0,635.0 295.8,626.0 304.2,626.0" fill="#000000" stroke="none"/>
+<ellipse cx="300.0" cy="652.0" rx="17.0" ry="17.0"/>
+<text x="300.0" y="652.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">3</text>
+<text x="325.0" y="652.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">.next</text>
+<text x="158.0" y="619.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">нет</text>
+<polyline points="152.0,605.0 152.0,699.0" fill="none"/>
+<polygon points="152.0,699.0 147.8,690.0 156.2,690.0" fill="#000000" stroke="none"/>
+<polygon points="36.0,699.0 268.0,699.0 268.0,743.0 36.0,743.0"/>
+<text x="46.0" y="721.0" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">mov eax, ebx</text>
+<polyline points="152.0,743.0 152.0,773.0" fill="none"/>
+<polygon points="152.0,773.0 147.8,764.0 156.2,764.0" fill="#000000" stroke="none"/>
+<ellipse cx="152.0" cy="790.0" rx="17.0" ry="17.0"/>
+<text x="152.0" y="790.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">3</text>
+<text x="177.0" y="790.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">.next</text>
+<polyline points="152.0,807.0 152.0,837.0" fill="none"/>
+<polygon points="152.0,837.0 147.8,828.0 156.2,828.0" fill="#000000" stroke="none"/>
+<polygon points="36.0,837.0 268.0,837.0 268.0,889.0 36.0,889.0"/>
+<text x="46.0" y="854.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">add esi, 4</text>
+<text x="46.0" y="871.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">dec ecx</text>
+<polyline points="152.0,889.0 152.0,919.0" fill="none"/>
+<polygon points="152.0,919.0 147.8,910.0 156.2,910.0" fill="#000000" stroke="none"/>
+<ellipse cx="152.0" cy="936.0" rx="17.0" ry="17.0"/>
+<text x="152.0" y="936.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">1</text>
+<text x="177.0" y="936.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">.loop</text>
+<ellipse cx="152.0" cy="1012.0" rx="17.0" ry="17.0"/>
+<text x="152.0" y="1012.0" dy=".35em" text-anchor="middle" font-size="12" fill="#000000" stroke="none">2</text>
+<text x="177.0" y="1012.0" dy=".35em" text-anchor="start" font-size="11" font-style="italic" fill="#555555" stroke="none">.done</text>
+<polyline points="152.0,1029.0 152.0,1059.0" fill="none"/>
+<polygon points="152.0,1059.0 147.8,1050.0 156.2,1050.0" fill="#000000" stroke="none"/>
+<polygon points="36.0,1059.0 268.0,1059.0 268.0,1103.0 36.0,1103.0"/>
+<polyline points="49.0,1059.0 49.0,1103.0" fill="none"/>
+<polyline points="255.0,1059.0 255.0,1103.0" fill="none"/>
+<text x="152.0" y="1081.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">call print_num</text>
+<polyline points="152.0,1103.0 152.0,1133.0" fill="none"/>
+<polygon points="152.0,1133.0 147.8,1124.0 156.2,1124.0" fill="#000000" stroke="none"/>
+<polygon points="36.0,1133.0 268.0,1133.0 268.0,1185.0 36.0,1185.0"/>
+<text x="46.0" y="1150.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">mov eax, 1</text>
+<text x="46.0" y="1167.5" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">int 0x80</text>
+<polyline points="152.0,1185.0 152.0,1215.0" fill="none"/>
+<polygon points="152.0,1215.0 147.8,1206.0 156.2,1206.0" fill="#000000" stroke="none"/>
+<rect x="77.0" y="1215.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="152.0" y="1234.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">конец</text>
+<text x="192.8" y="1297.0" dy=".35em" text-anchor="middle" font-size="14" font-weight="bold" fill="#000000" stroke="none">Блок-схема: _start</text>
+</g></svg>

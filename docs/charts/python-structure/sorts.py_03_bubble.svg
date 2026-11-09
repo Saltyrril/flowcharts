@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="421" height="612" viewBox="0 0 421 612" font-family="'DejaVu Sans', 'Segoe UI', Arial, 'Liberation Sans', sans-serif" font-size="13">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="#ffffff" stroke="#000000" stroke-width="1.5" stroke-linejoin="miter">
+<rect x="77.0" y="28.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="152.0" y="47.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">начало</text>
+<polyline points="277.0,33.5 267.0,33.5 267.0,60.5 277.0,60.5" fill="none"/>
+<text x="285.0" y="47.0" dy=".35em" text-anchor="start" font-size="13" fill="#000000" stroke="none">bubble(arr, n)</text>
+<polyline points="227.0,47.0 267.0,47.0" fill="none" stroke-dasharray="6 4"/>
+<polyline points="152.0,66.0 152.0,96.0" fill="none"/>
+<polygon points="152.0,96.0 147.8,87.0 156.2,87.0" fill="#000000" stroke="none"/>
+<polygon points="51.0,96.0 253.0,96.0 268.0,111.0 268.0,136.0 36.0,136.0 36.0,111.0"/>
+<text x="152.0" y="116.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">A пока has_swapped</text>
+<polyline points="152.0,136.0 152.0,166.0" fill="none"/>
+<polygon points="152.0,166.0 147.8,157.0 156.2,157.0" fill="#000000" stroke="none"/>
+<polygon points="51.0,166.0 253.0,166.0 268.0,181.0 268.0,206.0 36.0,206.0 36.0,181.0"/>
+<text x="152.0" y="186.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">B для i in range(n_pairs)</text>
+<polyline points="152.0,206.0 152.0,236.0" fill="none"/>
+<polygon points="152.0,236.0 147.8,227.0 156.2,227.0" fill="#000000" stroke="none"/>
+<polygon points="152.0,236.0 276.0,272.0 152.0,308.0 28.0,272.0"/>
+<text x="152.0" y="263.5" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">arr[i] &gt;</text>
+<text x="152.0" y="280.5" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">arr[i + 1]</text>
+<text x="280.0" y="264.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">нет</text>
+<polyline points="276.0,272.0 300.0,272.0" fill="none"/>
+<text x="158.0" y="322.0" dy=".35em" text-anchor="start" font-size="12" fill="#000000" stroke="none">да</text>
+<polyline points="152.0,308.0 152.0,338.0" fill="none"/>
+<polyline points="300.0,272.0 300.0,338.0 152.0,338.0" fill="none"/>
+<polyline points="152.0,338.0 152.0,368.0" fill="none"/>
+<polygon points="152.0,368.0 147.8,359.0 156.2,359.0" fill="#000000" stroke="none"/>
+<polygon points="36.0,368.0 268.0,368.0 268.0,393.0 253.0,408.0 51.0,408.0 36.0,393.0"/>
+<text x="152.0" y="388.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">B</text>
+<polyline points="152.0,408.0 152.0,438.0" fill="none"/>
+<polygon points="152.0,438.0 147.8,429.0 156.2,429.0" fill="#000000" stroke="none"/>
+<polygon points="36.0,438.0 268.0,438.0 268.0,463.0 253.0,478.0 51.0,478.0 36.0,463.0"/>
+<text x="152.0" y="458.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">A</text>
+<polyline points="152.0,478.0 152.0,508.0" fill="none"/>
+<polygon points="152.0,508.0 147.8,499.0 156.2,499.0" fill="#000000" stroke="none"/>
+<rect x="77.0" y="508.0" width="150.0" height="38.0" rx="19.0"/>
+<text x="152.0" y="527.0" dy=".35em" text-anchor="middle" font-size="13" fill="#000000" stroke="none">конец</text>
+<text x="210.4" y="590.0" dy=".35em" text-anchor="middle" font-size="14" font-weight="bold" fill="#000000" stroke="none">Блок-схема: bubble</text>
+</g></svg>
